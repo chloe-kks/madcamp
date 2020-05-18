@@ -6,7 +6,7 @@ Address Book, Photo Album, Speech API (using Android Studio)
 
 
 ### Week 3 : AR
-*NaniAR*
+*NarniAR*
 fantasy portal AR (using ARCore, Unity)
 
 
